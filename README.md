@@ -3,7 +3,7 @@
 ## I'm a Student At FCIS ASU!!
 
 <!-- - 🔭 I’m looking for internship as Flutter Developer -->
-- 🌱 I’m currently learning Flutter 🤣
+- 🌱 I’m currently learning Flutter 
 - 👯 I’m looking for internship as Android Developer
 - 🥅 2021 Goals: Creating more projects With Flutter And Android
 - ⚡ Live in Cairo , Egypt
