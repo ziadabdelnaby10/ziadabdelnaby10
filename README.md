@@ -1,67 +1,21 @@
-### Hi there, I'm Ziad Abdelnaby 👋
+<h1 align="center">Hi 👋, I'm Ziad Abdelnaby</h1>
+<h3 align="center">A passionate android developer from Cairo,Egypt</h3>
 
-## I'm a Student At FCIS ASU!!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadabdelnaby10&label=Profile%20views&color=0e75b6&style=flat" alt="ziadabdelnaby10" /> </p>
 
-<!-- - 🔭 I’m looking for internship as Flutter Developer -->
-- 🌱 I’m currently learning Flutter 
-- 👯 I’m looking for internship as Android Developer
-- 🥅 2021 Goals: Creating more projects With Flutter And Android
-- ⚡ Live in Cairo , Egypt
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadabdelnaby10" alt="ziadabdelnaby10" /></a> </p>
 
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ziad-abdelnaby-4b6579153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ziad-abdelnaby-4b6579153" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/zizo.abdelnaby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zizo.abdelnaby/" height="30" width="40" /></a>
+</p>
 
-[<img align="left" alt="ziadabdelnaby | email" width="25px" src="https://unpkg.com/simple-icons@v5/icons/gmail.svg" />](mailto:ziadabdelnaby46@gmail.com)
-[<img align="left" alt="ziadabdelnaby | Linkedin" width="25px" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://linkedin.com/in/ziad-abdelnaby-4b6579153/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadabdelnaby10&show_icons=true&locale=en&layout=compact" alt="ziadabdelnaby10" /></p>
 
-### Languages and Tools:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadabdelnaby10&show_icons=true&locale=en" alt="ziadabdelnaby10" /></p>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
-[<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]()
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/firebase/firebase.png" />]()
-[<img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/android/android.png" />]()
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-[<img align="left" alt="dart" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/dart/dart.png" />]()
-[<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/flutter/flutter.png" />]()
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />]()
-[<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]()
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/blender.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/cplusplus.svg" />
-
-<br />
-<br />
-<br />
-<br />
-
-
----
-
-[youtube]: https://www.youtube.com/channel/UCNUXOK-76lbB9AToG6r_q8g
-[instagram]: https://www.instagram.com/ziad_abdelnaby/
-[linkedin]: https://linkedin.com/in/ziad-abdelnaby-4b6579153
-[Facebook]: https://www.facebook.com/zizo.abdelnaby
-
-
-[![Ziadabdelnaby's github stats](https://github-readme-stats.vercel.app/api?username=ziadabdelnaby10&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/ziadabdelnaby10?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadabdelnaby10&layout=compact&theme=radical)](https://github.com/ziadabdelnaby10?tab=repositories)
-
-<!--
-**ziadabdelnaby10/ziadabdelnaby10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadabdelnaby10&" alt="ziadabdelnaby10" /></p>
