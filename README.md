@@ -21,10 +21,12 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
-Motivated Junior Software Engineer with 1 year of hands-on experience in backend development using Java and Spring
-Boot. Strong foundation in object-oriented programming, clean code principles, and agile teamwork. Experienced with
-relational databases (MySQL, PostgreSQL), version control (Git), and debugging in real-world environments. Passionate
-about learning and contributing to innovative digital projects
+Backend-focused Software Engineer with 3+ years of experience building scalable Java and Spring Boot services in
+fintech and enterprise environments. Hands-on in designing and maintaining microservices, REST APIs, and production
+ready backend systems using PostgreSQL, Redis, and Flyway. Strong foundation in clean architecture, OOP, debugging,
+and code reviews, with proven collaboration across QA, UI/UX, and product teams. Also experienced in React and Android,
+enabling end-to-end delivery when needed. Passionate about building secure, reliable systems and continuously
+improving engineering quality
   <br>
   <img src="https://img.shields.io/badge/Code-Clean%20%26%20Elegant-6A5ACD?style=flat-square&logo=codefactor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Team%20Player-4CAF50?style=flat-square&logo=people&logoColor=white"/>
